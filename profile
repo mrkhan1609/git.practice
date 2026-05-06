@@ -1,2 +1,5 @@
-this is my profile
-my name is khan
+
+this is my profile 
+personall info:
+name :khan
+age; 22
